@@ -59,3 +59,14 @@ body{
   font-family:'Fredoka One', cursive;
   color:#a8968f;
 }
+
+.projects_row h1{
+  text-align:center;
+  font-family:'Fredoka One', cursive;
+  color:#ccb9b1;
+}
+.project li{
+  padding-left::10px;
+  list-style-type: none;
+
+}
