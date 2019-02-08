@@ -1,5 +1,5 @@
 # IP_portfolio_landing_page
-A portfolio web page displaying information about skillets, experience and interests.
+A portfolio web page displaying information about my skillets,job experience and interests.
 
 Project Name : Portfolio landing page.
 
