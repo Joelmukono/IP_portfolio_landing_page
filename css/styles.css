@@ -3,3 +3,13 @@
   width:200px;
 
 }
+
+.sidebar{
+  width:20%;
+  float:left;
+  padding:40px;
+  border:8px;
+  margin:8px;
+  background-color:#bfada5;
+  color:white;
+}
