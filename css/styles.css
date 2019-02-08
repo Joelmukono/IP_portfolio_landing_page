@@ -66,7 +66,24 @@ body{
   color:#ccb9b1;
 }
 .project li{
-  padding-left::10px;
+  padding:10px;
   list-style-type: none;
 
+}
+.project li h2{
+  font-family:'Fredoka One', cursive;
+  color:#a8968f;
+  text-decoration:underline;
+}
+
+.project li p{
+  font-family:'Fredoka One', cursive;
+  color:#ccb9b1;
+}
+.project li a{
+  font-family:'Fredoka One', cursive;
+  color:#a8968f;
+}
+.project li a:link{
+  text-decoration: none;
 }
