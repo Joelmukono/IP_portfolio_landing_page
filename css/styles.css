@@ -41,4 +41,12 @@ body{
 
 .cover_row{
   text-align:center;
+
+}
+.small_row{
+  float:left;
+  width:15%;
+  padding:10px;
+  font-family:'Fredoka One', cursive;
+  color:#a8968f;
 }
