@@ -23,7 +23,7 @@
 
 .row{
   text-align:center;
-  padding:30px;
+  padding:10px;
 }
 .row h1{
   font-family:'Fredoka One', cursive;
@@ -32,4 +32,9 @@
 
 body{
   background-color:#eae8e8;
+}
+
+.small_row{
+  float:right;
+  padding:20px;
 }
