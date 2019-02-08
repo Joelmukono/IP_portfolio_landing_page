@@ -10,3 +10,6 @@ is based in the basics of HTML and CSS.
 
 Set-Up instructions: Clone or download the project. Open up the IP_portfolio_landing_page folder.
 Locate the index.html file, then open in browser
+
+Link to live site on github pages : https://joelmukono.github.io/IP_portfolio_landing_page/  
+
