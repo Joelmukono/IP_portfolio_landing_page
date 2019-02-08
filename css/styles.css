@@ -29,12 +29,16 @@
   font-family:'Fredoka One', cursive;
   color:#a8968f;
 }
+.row p{
+  font-family:'Fredoka One', cursive;
+  color:#ccb9b1;
+}
 
 body{
   background-color:#eae8e8;
 }
 
-.small_row{
-  float:right;
-  padding:20px;
+
+.cover_row{
+  text-align:center;
 }
