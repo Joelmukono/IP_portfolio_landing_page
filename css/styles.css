@@ -16,7 +16,12 @@
 .sidebar h2{
   font-family: 'Permanent Marker', cursive;
 }
-
+.sidebar h3{
+  font-family: 'Permanent Marker', cursive;
+}
+.sidebar ol{
+  font-family: 'Fredoka One' ,cursive;
+}
 
 .sidebar p{
   font-family: 'Fredoka One', cursive;
