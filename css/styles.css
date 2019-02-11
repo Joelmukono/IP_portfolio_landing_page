@@ -93,3 +93,10 @@ body{
   border:4px;
   margin:30px;
 }
+@media screen and (max-width:480px){
+    .sidebar{
+      width: 380px;
+    }
+    
+  }
+}
